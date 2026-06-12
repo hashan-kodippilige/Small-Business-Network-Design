@@ -27,7 +27,8 @@ Designed and implemented a secure Cisco-based small business network for HSK Com
 
 ## Topology
 
-![Topology](images/topology.png)
+<img width="1288" height="860" alt="image" src="https://github.com/user-attachments/assets/57d59c54-25bd-41d4-91e1-858f6f99e07d" />
+
 
 ## Skills Demonstrated
 

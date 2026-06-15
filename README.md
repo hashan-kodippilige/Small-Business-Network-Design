@@ -4,8 +4,7 @@
   <img src="https://img.shields.io/badge/Tool-Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Protocol-VLAN%20%7C%20DHCP%20%7C%20PAT-4B4B4B?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Security-SSH%20%7C%20TFTP-E22C2C?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Architecture-Router--on-a--Stick-green?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
+ </p>
 
 > 🏢 A secure, fully functional Cisco-based small business network designed for **HSK Company** — supporting Management, Operations, and Sales departments with VLAN segmentation, inter-VLAN routing, DHCP automation, PAT internet access, SSH remote management, and TFTP configuration backup.
 

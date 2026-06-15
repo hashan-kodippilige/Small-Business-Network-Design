@@ -1,4 +1,4 @@
-# 🏢 Small Business Network Design — HSK Company
+# Small Business Network Design — HSK Company
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tool-Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
@@ -6,17 +6,17 @@
   <img src="https://img.shields.io/badge/Security-SSH%20%7C%20TFTP-E22C2C?style=for-the-badge&logo=cisco&logoColor=white" />
  </p>
 
-> 🏢 A secure, fully functional Cisco-based small business network designed for **HSK Company** — supporting Management, Operations, and Sales departments with VLAN segmentation, inter-VLAN routing, DHCP automation, PAT internet access, SSH remote management, and TFTP configuration backup.
+> A secure, fully functional Cisco-based small business network designed for **HSK Company** — supporting Management, Operations, and Sales departments with VLAN segmentation, inter-VLAN routing, DHCP automation, PAT internet access, SSH remote management, and TFTP configuration backup.
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project demonstrates end-to-end design and implementation of a **small business network** using Cisco Packet Tracer. The network supports three internal departments with isolated VLANs, automated IP management, secure internet access, and encrypted remote administration — reflecting real-world SMB network deployments.
 
 ---
 
-## 🏗️ Network Architecture
+## Network Architecture
 
 ### Departments & VLANs
 
@@ -33,39 +33,39 @@ This project demonstrates end-to-end design and implementation of a **small busi
 
 ---
 
-## 🛠️ Technologies Implemented
+## Technologies Implemented
 
-### 🌐 Network Design
+### Network Design
 - **VLAN Segmentation** — isolated broadcast domains per department
 - **802.1Q Trunking** — VLAN traffic between router and switch
 - **Router-on-a-Stick** — inter-VLAN routing via sub-interfaces
 - **Subnetting** — custom IP addressing scheme per VLAN
 
-### 🔄 IP Services
+### IP Services
 - **DHCP** — automated IP assignment for all department VLANs
 - **PAT (Port Address Translation)** — internet access for all internal hosts via single public IP
 - **Default routing** — traffic forwarding to ISP gateway
 
-### 🔒 Security & Management
+### Security & Management
 - **SSH** — encrypted remote device management (Telnet disabled)
 - **TFTP Backup Server** — automated configuration backup and restoration
 - **Access Control** — privileged access restricted via AAA-style local authentication
 
 ---
 
-## 🔑 Key Accomplishments
+## Key Accomplishments
 
-- ✅ Designed a complete multi-department VLAN network from scratch
-- ✅ Configured Router-on-a-Stick for inter-VLAN communication
-- ✅ Automated IP assignment across all VLANs using DHCP pools
-- ✅ Enabled internet access for all departments via PAT
-- ✅ Secured remote management using SSH — Telnet fully disabled
-- ✅ Implemented TFTP-based configuration backup and verified restore process
-- ✅ Verified end-to-end connectivity across all VLANs and to the internet
+- Designed a complete multi-department VLAN network from scratch
+- Configured Router-on-a-Stick for inter-VLAN communication
+- Automated IP assignment across all VLANs using DHCP pools
+- Enabled internet access for all departments via PAT
+- Secured remote management using SSH — Telnet fully disabled
+- Implemented TFTP-based configuration backup and verified restore process
+- Verified end-to-end connectivity across all VLANs and to the internet
 
 ---
 
-## 🗺️ Network Topology
+## Network Topology
 
 ![Network Topology](https://private-user-images.githubusercontent.com/260146593/607231727-57d59c54-25bd-41d4-91e1-858f6f99e07d.png)
 
@@ -77,7 +77,7 @@ This project demonstrates end-to-end design and implementation of a **small busi
 
 ---
 
-## 📋 Implementation Steps
+## Implementation Steps
 
 | Step | Task |
 |------|------|
@@ -94,23 +94,23 @@ This project demonstrates end-to-end design and implementation of a **small busi
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 ```
-📦 Small-Business-Network-Design
+Small-Business-Network-Design
 ├── 📄 README.md
 └── 📋 P1-Small Business Company Network Design.pdf   ← Full report & topology
 ```
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 `VLAN Design` `Router-on-a-Stick` `Inter-VLAN Routing` `DHCP` `PAT` `SSH` `TFTP` `Subnetting` `Cisco IOS` `Cisco Packet Tracer` `Network Security` `SMB Network Design` `Trunking`
 
 ---
 
-## 💡 Real-World Relevance
+## Real-World Relevance
 
 Small business networks are the foundation of enterprise networking. This project demonstrates skills applicable to:
 - **Network Administrator** roles — VLAN, DHCP, and routing configuration
@@ -120,13 +120,13 @@ Small business networks are the foundation of enterprise networking. This projec
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This project was designed and implemented in Cisco Packet Tracer for academic and educational purposes. All company names, IP addresses, and configurations are fictitious.
 
 ---
 
-## 👤 Author
+## Author
 
 **Hashan Kodippilige**  
 M.S. Cybersecurity — Minnesota State University Moorhead  
